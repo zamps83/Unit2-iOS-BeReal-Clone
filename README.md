@@ -1,6 +1,6 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *BeReal ClonePt1*
 
-Submitted by: **Your Name Here**
+Submitted by: **Zamir Piedrahita**
 
 **BeReal ClonePt1** 
 
