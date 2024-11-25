@@ -4,7 +4,7 @@ Submitted by: **Your Name Here**
 
 **BeReal ClonePt1** 
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -34,6 +34,11 @@ The following **additional** features are implemented:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide](https://www.youtube.com/watch?v=GA92eKlYio4).
+
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRhYWtvdTRxcW5qNW9yeTB2b29wdzd0MjA1Z2V2b2diendjaHAwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixU9jsUrVc8yFZZJsj/giphy.gif
+
+https://www.loom.com/share/0408baf358374130ba9c042ea2f5eac2
+
 
 ## Notes
 
